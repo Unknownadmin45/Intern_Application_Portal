@@ -18,7 +18,7 @@ The *Intern Application Portal* is a secure and efficient platform for collectin
 #### *Installation Instructions*
 1. Clone the repository:
    bash
-   git clone https://github.com/Mande-Ketan-11/PHP--03_Intern_Application_Portal
+   git clone [https://github.com/Unknownadmin45/Intern_Application_Portal]
    
 2. Install and start XAMPP (Apache and MySQL).  
 3. Import the SQL file into *phpMyAdmin* to create the database.  
